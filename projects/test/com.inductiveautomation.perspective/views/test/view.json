@@ -15,7 +15,7 @@
           "y": 241
         },
         "props": {
-          "text": "Hello!"
+          "text": "Hello Again from a feature branch!"
         },
         "type": "ia.display.label"
       }
